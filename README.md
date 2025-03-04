@@ -95,5 +95,5 @@ Oyundaki ilerlemeniz **JSON dosyaları** kullanılarak saklanır. **Galerinizdek
 ## **ÖNEMLİ NOT: OYUNU ÇALIŞTIRMAK İÇİN**
 GitHub’ın dosya yükleme sınırları nedeniyle, aşağıdaki **RESS dosyasını indirip** "**Galerici Sim_Data**" klasörüne koymanız gerekmektedir. Aksi takdirde **grafiklerde bozulmalar yaşayabilirsiniz**.
 
-🔗 **[Gerekli Dosya Linki](https://drive.google.com/file/d/1ZeLCsqdqiTXAt6rI6DwENGt1Kl7ckAsa/view?usp=sharing)**
+🔗 **[Buraya tıklayınız](https://drive.google.com/file/d/1ZeLCsqdqiTXAt6rI6DwENGt1Kl7ckAsa/view?usp=sharing)**
 
