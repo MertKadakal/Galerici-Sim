@@ -66,3 +66,9 @@ Kumar seçeneği olarak sadece slot oyunu bulunmaktadır. 3 parçalı slotta par
 ---
 ### Verilerinizin Depolanması
 Oyundan çıktığınızda verilerinizin kaybolmaması ve tekrar girdiğinizde ulaşabilmeniz iiçn tüm veriler JSON dosyası şeklinde saklanmaktadır. Araçlarınız, bilgisayar verileriniz, mail geçmişiniz ve mevcut paranız bu şekilde oyundan çıktığınızda kaybolmaz.
+
+---
+### OYUNU ÇALIŞTIRMANIZ İÇİN ÖNEMLİ NOT
+GitHub'ın dosya yükleme işlemleri için koyduğu sınırdan dolayı aşağıdaki RESS dosyasını indirmeniz ve ardından "Galerici Sim_Data" klasörüne koymanız gerekmektedir. Aksi takdirde oyun grafiklerinde ciddi bozulmalar yaşayabilirsiniz.
+
+https://drive.google.com/file/d/1ZeLCsqdqiTXAt6rI6DwENGt1Kl7ckAsa/view?usp=sharing
