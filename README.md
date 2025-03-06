@@ -92,6 +92,21 @@ Oyunda alım-satım yaparken dikkat etmeniz gereken **araç özellikleri** şunl
 Oyundaki ilerlemeniz **JSON dosyaları** kullanılarak saklanır. **Galerinizdeki araçlar, alım-satım geçmişiniz, mailleriniz ve paranız** gibi tüm veriler **oyundan çıktığınızda kaybolmaz**.
 
 ---
+## **Oyunda Kullanmanız Gereken Klavye Kısayolları**
+- P: Oyunu durdur
+- F: Arabaya bin / arabadan in
+- M: Maillere bak (monitöre yakınken)
+- C: Çalışanlara bak (monitöre yakınken)
+- B: Bilgisayara bak (monitöre yakınken)
+- R: Aracı düzelt (devrilme durumlarında)
+
+---
+## **Oyun Haritası Tanıtımı ve Örnek Oynanış Videoları**
+🔗 **[Oyun Haritası Tanıtımı](https://drive.google.com/file/d/1kVmsv6AIbUeCC3PIiznkAzWYgXiUT1qE/view?usp=sharing)**
+
+🔗 **[Örnek Oynanış Videosu](https://drive.google.com/file/d/1nSUYMMUdIxcZ2sMOIU_zDmfbkDIQYBUS/view?usp=sharing)**
+
+---
 ## **ÖNEMLİ NOT: OYUNU ÇALIŞTIRMAK İÇİN**
 GitHub’ın dosya yükleme sınırları nedeniyle, aşağıdaki **RESS dosyasını indirip** "**Galerici Sim_Data**" klasörüne koymanız gerekmektedir. Aksi takdirde **grafiklerde bozulmalar yaşayabilirsiniz**.
 
